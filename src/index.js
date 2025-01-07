@@ -11,7 +11,7 @@ app.use(express.urlencoded({extended:true}))
 
 
 //routes
-app.get('/',(res,req)=>{
+app.get('/',(req,res)=>{
     res.json({title: 'Home Page'})
 })
 
