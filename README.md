@@ -83,7 +83,7 @@ npm install
 ```plaintext
 carpeta-destino/
 ├── package.json    # Dependencias y configuración del proyecto
-├── server.js       # Archivo principal del servidor
+├── index.js       # Archivo principal del servidor
 ├── README.md       # Documentación del proyecto
 ```
 
